@@ -1,0 +1,26 @@
+[
+    {
+        "productName":"BLAZE LEGGINGS",
+        "productPrice":710.9,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/single/woman1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"ALEXA SWEATER",
+        "productPrice":609.99,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/single/woman3.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"AGNES TOP",
+        "productPrice":580.5,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/single/woman4.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"SYLVA SWEATER",
+        "productPrice":199.9,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/single/woman5.png",
+        "productId":"prod_3"
+    }
+]

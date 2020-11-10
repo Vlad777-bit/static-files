@@ -1,0 +1,56 @@
+[
+    {
+        "productName":"MANGO PEOPLE LONG JACKET",
+        "productPrice":14,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productName":"MANGO PEOPLE COAT",
+        "productPrice":130,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product2.png",
+        "productId":"prod_1"
+    },
+    {
+        "productName":"MANGO PEOPLE JACKET",
+        "productPrice":36,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product3.png",
+        "productId":"prod_2"
+    },
+    {
+        "productName":"MANGO PEOPLE GREY T-SHIRT",
+        "productPrice":41,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product4.png",
+        "productId":"prod_3"
+    },
+    {
+        "productName":"MANGO PEOPLE SHORTS",
+        "productPrice":56.9,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product5.png",
+        "productId":"prod_4"
+    },
+    {
+        "productName":"MANGO PEOPLE BOMBER JACKET",
+        "productPrice":50,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product6.png",
+        "productId":"prod_5"
+    },
+    {
+        "productName":"MANGO PEOPLE TUXEDO",
+        "productPrice":41.5,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product7.png",
+        "productId":"prod_6"
+    },
+    {
+        "productName":"MANGO PEOPLE LIGHT COAT",
+        "productPrice":79.2,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product8.png",
+        "productId":"prod_7"
+    },
+    {
+        "productName":"MANGO PEOPLE PURPLE T-SHIRT",
+        "productPrice":120.03,
+        "productImg":"https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/product/product9.png",
+        "productId":"prod_7"
+    }
+]

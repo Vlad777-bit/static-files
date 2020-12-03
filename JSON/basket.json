@@ -5,14 +5,14 @@
         {
             "productName": "ORANGE PEOPLE T-SHIRT",
             "productPrice": 67,
-            "productImg": "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem4.jpg",
+            "productImg": "https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/fetured/product_4.png",
             "productId": "prod_3",
             "amount": 2
         },
         {
             "productName": "PUMKIN PEOPLE T-SHIRT",
             "productPrice": 69,
-            "productImg": "https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem5.jpg",
+            "productImg": "https://raw.githubusercontent.com/Vlad777-bit/static/master/img_Brand/fetured/product_5.png",
             "productId": "prod_4",
             "amount": 1
         }
